@@ -92,8 +92,8 @@
 
 ```code
    {
-      message: "Product not found"
-	}
+       message: "Product not found"
+   }
 ```
 
 # TASK 5\* (додаткове завдання)
@@ -148,8 +148,8 @@
 
 ```code
    {
-      message: "Product not found"
-	}
+       message: "Product not found"
+   }
 ```
 
 # TASK 7\* (додаткове завдання)
@@ -167,7 +167,7 @@
 
 ```code
    {
-      message: "Product not found"
-	}
+       message: "Product not found"
+   }
 ```
 
